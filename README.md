@@ -6,7 +6,7 @@ The goal of this portfolio is to demonstrate practical networking, troubleshooti
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 1. VLAN Troubleshooting Lab
 - VLAN configuration and segmentation
@@ -18,7 +18,7 @@ Folder: `/projects/vlan-troubleshooting-lab`
 
 ---
 
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 - Network troubleshooting
 - VLAN configuration
 - Cisco CLI usage
@@ -27,7 +27,7 @@ Folder: `/projects/vlan-troubleshooting-lab`
 
 ---
 
-## 📌 Tools Used
+## Tools Used
 - Cisco Packet Tracer
 
 ---
