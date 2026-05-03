@@ -32,5 +32,5 @@ Folder: `/projects/vlan-troubleshooting-lab`
 
 ---
 
-## 🎯 Goal
+## Goal
 To build job-ready networking experience for entry-level IT and network technician roles.
