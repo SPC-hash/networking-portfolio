@@ -101,7 +101,3 @@ All supporting screenshots are located in the `/screenshots` directory:
 - Demonstrated structured troubleshooting process aligned with enterprise IT workflows
 
 ---
-
-## Notes
-
-This lab was designed to simulate real-world enterprise network troubleshooting scenarios commonly encountered in help desk, NOC, and junior network engineer roles.
